@@ -1,0 +1,27 @@
+form {
+  float: right;
+}
+.card.header {
+  padding: 10px 20px 4px 20px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border: none;
+  background: rgba(0, 0, 0, 0.3);
+}
+.card-body.header {
+  padding: 10px 15px 10px 15px;
+}
+
+.app-name {
+  font-family: "Sora", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  color: #fff;
+  margin-top: 5px;
+}
+.fa-map-marker-alt {
+  color: #bf2b2b;
+  font-size: 20px;
+}
