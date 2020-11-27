@@ -7,7 +7,7 @@ export default function Footer() {
     <div className="Footer">
       <p class="info-text">
         <a
-          href="https://github.com/Julietwong/weather-app-meteo-ki-dir"
+          href="https://github.com/Julietwong/weather-app-react"
           rel="noopener noreferrer"
         >
           Open-source code
